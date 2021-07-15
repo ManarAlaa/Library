@@ -3,7 +3,7 @@
 
 <div class="panel panel-default">
 <div style="font-size:30px";>
-            <div class="panel-heading " style="text-align:center";>ALL Books</div>
+            <div class="panel-heading " style="text-align:center";>ALL - Books</div>
             </div>
             <hr>
 
